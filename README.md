@@ -1,0 +1,2 @@
+# freenotion
+Notion to local
